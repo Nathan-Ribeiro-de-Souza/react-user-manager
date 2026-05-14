@@ -5,7 +5,7 @@ Responsive user management application built with React.
 
 ## Preview
 
-🔗 Live Demo: https://nathan-ribeiro-de-souza.github.io/react-user-manager/
+🔗 [View Project](https://nathan-ribeiro-de-souza.github.io/react-user-manager/)
 
 ## Features
 
